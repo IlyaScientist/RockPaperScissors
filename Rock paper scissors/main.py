@@ -71,4 +71,4 @@ while True:
                 print('Под этим числом ничего нет')
             
     except ValueError:
-        print('Напиши число дебил')
+        print('Напишите число')
